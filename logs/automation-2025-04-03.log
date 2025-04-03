@@ -1,0 +1,51 @@
+12:41:47.133 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:41:47.604 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:41:47.606 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:41:47.951 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:41:48.331 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:42:14.251 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ****
+12:42:14.699 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+12:42:15.213 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Registration Link *****
+12:42:15.213 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering Customer ******
+12:42:18.641 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating test
+12:42:18.695 [main] INFO  testCases.TC_001_AccountRegistrationTest - test fail
+12:42:22.033 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:42:22.237 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:42:22.691 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:42:22.693 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:42:23.059 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:42:23.588 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+12:44:50.318 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ****
+12:44:51.082 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+12:44:51.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Registration Link *****
+12:44:51.741 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering Customer ******
+12:44:55.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating test
+12:44:55.404 [main] INFO  testCases.TC_001_AccountRegistrationTest - test pass
+12:44:55.408 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccountRegistrationTest *****
+12:54:26.297 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ****
+12:54:26.791 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+12:54:27.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Registration Link *****
+12:54:27.340 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering Customer ******
+12:54:30.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating test
+12:54:30.936 [main] INFO  testCases.TC_001_AccountRegistrationTest - test pass
+12:54:30.939 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccountRegistrationTest *****
+12:54:33.878 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+12:54:34.383 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+12:54:34.909 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+12:54:34.911 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+12:54:35.983 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+12:54:36.042 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+10:53:03.701 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ****
+10:53:04.415 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on My Account Link *****
+10:53:05.047 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Clicked on Registration Link *****
+10:53:05.048 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Entering Customer ******
+10:53:08.865 [main] INFO  testCases.TC_001_AccountRegistrationTest - validating test
+10:53:08.923 [main] INFO  testCases.TC_001_AccountRegistrationTest - test pass
+10:53:08.928 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****** Finished TC_001_AccountRegistrationTest *****
+10:53:12.226 [main] INFO  testCases.TC_002_LoginTest - **** Starting TC_002_LoginTest  ****
+10:53:12.735 [main] INFO  testCases.TC_002_LoginTest - clicked on myaccount link on the home page..
+10:53:13.231 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
+10:53:13.233 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
+10:53:14.283 [main] INFO  testCases.TC_002_LoginTest - clicked on ligin button..
+10:53:14.331 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+11:42:17.793 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** starting TC_001_AccountRegistrationTest ****
